@@ -9,7 +9,7 @@
   * [Repository](https://github.com/NongE?tab=repositories&q=android-sample-project)
 
 * [내 손에서 쉽고 빠르게 접하는 뉴스 어플리케이션, AmazingNews](https://nonge.oopy.io/amazing-news) (진행 중)
-  * 내 손에서 쉽고 빠르게 내 건강을 관리할 수 있는 어플리케이션 개발 프로젝트
+  * 스마트폰을 통해 새로운 정보를 접하고 있는 현 시대 속에 가장 적합한 뉴스 어플리케이션 개발 프로젝트
   * [Repository](https://github.com/NongE/AmazingNews)
 
 * [개인 주식 포트폴리오 관리 서비스, GOSDAQ](https://nonge.oopy.io/gosdaq) (22.05 ~ 23.01)
